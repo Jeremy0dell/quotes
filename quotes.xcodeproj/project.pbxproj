@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED189D521DAABC9900FF1184 /* Jeremy1dellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED189D511DAABC9900FF1184 /* Jeremy1dellViewController.swift */; };
 		EDED7BDA1DAAB5A30025784F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED7BD91DAAB5A30025784F /* AppDelegate.swift */; };
 		EDED7BDC1DAAB5A30025784F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDED7BDB1DAAB5A30025784F /* ViewController.swift */; };
 		EDED7BDF1DAAB5A30025784F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDED7BDD1DAAB5A30025784F /* Main.storyboard */; };
@@ -16,7 +15,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ED189D511DAABC9900FF1184 /* Jeremy1dellViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Jeremy1dellViewController.swift; sourceTree = "<group>"; };
 		EDED7BD61DAAB5A30025784F /* quotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = quotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDED7BD91DAAB5A30025784F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EDED7BDB1DAAB5A30025784F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,7 +56,6 @@
 			children = (
 				EDED7BD91DAAB5A30025784F /* AppDelegate.swift */,
 				EDED7BDB1DAAB5A30025784F /* ViewController.swift */,
-				ED189D511DAABC9900FF1184 /* Jeremy1dellViewController.swift */,
 				EDED7BDD1DAAB5A30025784F /* Main.storyboard */,
 				EDED7BE01DAAB5A30025784F /* Assets.xcassets */,
 				EDED7BE21DAAB5A30025784F /* LaunchScreen.storyboard */,
@@ -140,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDED7BDC1DAAB5A30025784F /* ViewController.swift in Sources */,
-				ED189D521DAABC9900FF1184 /* Jeremy1dellViewController.swift in Sources */,
 				EDED7BDA1DAAB5A30025784F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
