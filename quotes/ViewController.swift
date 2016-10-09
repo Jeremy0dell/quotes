@@ -19,7 +19,8 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    // I am Jeremy 1dell and I create a lot of code
 
 }
 
