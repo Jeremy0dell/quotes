@@ -10,12 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
-
+    let quotes = ["Hello, World!", "I miss you!", "This tutorial is a joke!", "Want to hang out?"]
+    var indexx = 0
     
     @IBOutlet weak var labelAction: UILabel!
         
     @IBAction func displayNewQuote() {
-        labelAction.text = "Should display a new quote now"
+        if indexx >= 4 {
+            indexx = 0
+        }
+        labelAction.text = quotes[indexx]
+        indexx += 1
     }
     override func viewDidLoad() {
         super.viewDidLoad()
